@@ -1,0 +1,49 @@
+column_name,description
+last_trans,The number of hours since last transaction
+use_dur,The number of days customer used card. Days between first tranaction and last
+total_trans,Total amount of money used in transactions in KZT
+number_trans,The number of transactions customer performed
+avg_trans,Average amount of money used per transaction
+daily_turnover,Average number of transaction per day
+name_None,total transactions by name_None
+name_Chip,total transactions by name_Chip
+name_Contactless,total transactions by name_Contactless
+name_ECOM,total transactions by name_ECOM
+name_QR_Code,total transactions by name_QR_Code
+name_Swipe,total transactions by name_Swipe
+name_POS,total transactions by name_POS
+name_BILL_PAYMENT,total transactions by name_BILL_PAYMENT
+name_ATM_WITHDRAWAL,total transactions by name_ATM_WITHDRAWAL
+name_ECOM,total transactions by name_ECOM
+name_SALARY,total transactions by name_SALARY
+name_P2P_OUT,total transactions by name_P2P_OUT
+name_P2P_IN,total transactions by name_P2P_IN
+name_Clothing & Apparel,total transactions by name_Clothing & Apparel
+name_Utilities & Bill Payments,total transactions by name_Utilities & Bill Payments
+name_Grocery & Food Markets,total transactions by name_Grocery & Food Markets
+name_Dining & Restaurants,total transactions by name_Dining & Restaurants
+name_Unknown,total transactions by name_Unknown
+name_General Retail & Department,total transactions by name_General Retail & Department
+name_Home Furnishings & Supplies,total transactions by name_Home Furnishings & Supplies
+name_Electronics & Software,total transactions by name_Electronics & Software
+name_Travel & Transportation,total transactions by name_Travel & Transportation
+"name_Hobby, Books, Sporting Goods","total transactions by name_Hobby, Books, Sporting Goods"
+name_Services (Other),total transactions by name_Services (Other)
+name_Fuel & Service Stations,total transactions by name_Fuel & Service Stations
+name_Pharmacies & Health,total transactions by name_Pharmacies & Health
+name_None,total transactions by name_None
+name_Bank's QR,total transactions by name_Bank's QR
+name_Google Pay,total transactions by name_Google Pay
+name_Apple Pay,total transactions by name_Apple Pay
+name_Samsung Pay,total transactions by name_Samsung Pay
+name_AMD,total transactions by name_AMD
+name_USD,total transactions by name_USD
+name_BYN,total transactions by name_BYN
+name_EUR,total transactions by name_EUR
+name_AED,total transactions by name_AED
+name_KGS,total transactions by name_KGS
+name_GEL,total transactions by name_GEL
+name_CNY,total transactions by name_CNY
+name_TRY,total transactions by name_TRY
+name_UZS,total transactions by name_UZS
+name_KZT,total transactions by name_KZT
